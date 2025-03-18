@@ -1,4 +1,4 @@
-# 🚀 Rufus: AI-Powered Semantic Web Crawler  
+# Rufus: AI-Powered Semantic Web Crawler  
 
 Rufus is an **AI-driven web crawler** that intelligently explores websites, retrieves relevant content, and analyzes pages using **semantic understanding**. It utilizes **OpenAI's GPT models** and **Playwright** to make smart crawling decisions, making it ideal for **automated research, market analysis, SEO, and fact-checking**.  
 
